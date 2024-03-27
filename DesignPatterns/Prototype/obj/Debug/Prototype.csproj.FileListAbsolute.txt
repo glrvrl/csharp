@@ -1,7 +1,0 @@
-C:\Users\win10\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
-C:\Users\win10\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe
-C:\Users\win10\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
-C:\Users\win10\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
-C:\Users\win10\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
-C:\Users\win10\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.exe
-C:\Users\win10\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

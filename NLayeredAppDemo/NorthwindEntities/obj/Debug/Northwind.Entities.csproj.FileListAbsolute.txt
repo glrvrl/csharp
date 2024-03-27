@@ -1,6 +1,0 @@
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\bin\Debug\Northwind.Entities.dll
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\bin\Debug\Northwind.Entities.pdb
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\obj\Debug\Northwind.Entities.dll
-C:\Users\win10\source\repos\NLayeredAppDemo\NorthwindEntities\obj\Debug\Northwind.Entities.pdb

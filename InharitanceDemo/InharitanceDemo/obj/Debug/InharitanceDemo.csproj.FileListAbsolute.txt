@@ -1,7 +1,0 @@
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\bin\Debug\InharitanceDemo.exe.config
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\bin\Debug\InharitanceDemo.exe
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\bin\Debug\InharitanceDemo.pdb
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\obj\Debug\InharitanceDemo.csproj.AssemblyReference.cache
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\obj\Debug\InharitanceDemo.csproj.CoreCompileInputs.cache
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\obj\Debug\InharitanceDemo.exe
-C:\Users\win10\source\repos\InharitanceDemo\InharitanceDemo\obj\Debug\InharitanceDemo.pdb

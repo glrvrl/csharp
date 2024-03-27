@@ -1,7 +1,0 @@
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\bin\Debug\AccesModifierSamples.exe.config
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\bin\Debug\AccesModifierSamples.exe
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\bin\Debug\AccesModifierSamples.pdb
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\obj\Debug\AccesModifierSamples.csproj.AssemblyReference.cache
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\obj\Debug\AccesModifierSamples.csproj.CoreCompileInputs.cache
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\obj\Debug\AccesModifierSamples.exe
-C:\Users\win10\source\repos\AccesModifierSamples\AccesModifierSamples\obj\Debug\AccesModifierSamples.pdb

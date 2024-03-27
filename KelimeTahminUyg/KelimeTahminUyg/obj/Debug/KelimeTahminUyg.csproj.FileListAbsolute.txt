@@ -1,7 +1,0 @@
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\bin\Debug\KelimeTahminUyg.exe.config
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\bin\Debug\KelimeTahminUyg.exe
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\bin\Debug\KelimeTahminUyg.pdb
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\obj\Debug\KelimeTahminUyg.csproj.AssemblyReference.cache
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\obj\Debug\KelimeTahminUyg.csproj.CoreCompileInputs.cache
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\obj\Debug\KelimeTahminUyg.exe
-C:\Users\win10\source\repos\KelimeTahminUyg\KelimeTahminUyg\obj\Debug\KelimeTahminUyg.pdb
