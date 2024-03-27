@@ -1,0 +1,7 @@
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\obj\Debug\TurnuvaAppV1.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\obj\Debug\TurnuvaAppV1.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\bin\Debug\TurnuvaAppV1.exe.config
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\bin\Debug\TurnuvaAppV1.exe
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\bin\Debug\TurnuvaAppV1.pdb
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\obj\Debug\TurnuvaAppV1.exe
+C:\Users\win10\source\repos\TurnuvaAppV1\TurnuvaAppV1\obj\Debug\TurnuvaAppV1.pdb

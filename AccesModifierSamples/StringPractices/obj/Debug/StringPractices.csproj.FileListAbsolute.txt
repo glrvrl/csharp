@@ -1,0 +1,7 @@
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\bin\Debug\StringPractices.exe.config
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\bin\Debug\StringPractices.exe
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\bin\Debug\StringPractices.pdb
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\obj\Debug\StringPractices.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\obj\Debug\StringPractices.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\obj\Debug\StringPractices.exe
+C:\Users\win10\source\repos\AccesModifierSamples\StringPractices\obj\Debug\StringPractices.pdb

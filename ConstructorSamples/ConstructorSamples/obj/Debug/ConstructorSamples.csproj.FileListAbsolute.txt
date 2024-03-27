@@ -1,0 +1,7 @@
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\bin\Debug\ConstructorSamples.exe.config
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\bin\Debug\ConstructorSamples.exe
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\bin\Debug\ConstructorSamples.pdb
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\obj\Debug\ConstructorSamples.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\obj\Debug\ConstructorSamples.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\obj\Debug\ConstructorSamples.exe
+C:\Users\win10\source\repos\ConstructorSamples\ConstructorSamples\obj\Debug\ConstructorSamples.pdb

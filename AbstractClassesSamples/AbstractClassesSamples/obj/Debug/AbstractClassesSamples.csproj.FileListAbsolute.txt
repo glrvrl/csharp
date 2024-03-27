@@ -1,0 +1,6 @@
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\bin\Debug\AbstractClassesSamples.exe.config
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\bin\Debug\AbstractClassesSamples.exe
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\bin\Debug\AbstractClassesSamples.pdb
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\obj\Debug\AbstractClassesSamples.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\obj\Debug\AbstractClassesSamples.exe
+C:\Users\win10\source\repos\AbstractClassesSamples\AbstractClassesSamples\obj\Debug\AbstractClassesSamples.pdb

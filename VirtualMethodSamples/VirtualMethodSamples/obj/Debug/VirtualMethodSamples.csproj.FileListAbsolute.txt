@@ -1,0 +1,6 @@
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\bin\Debug\VirtualMethodSamples.exe.config
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\bin\Debug\VirtualMethodSamples.exe
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\bin\Debug\VirtualMethodSamples.pdb
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\obj\Debug\VirtualMethodSamples.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\obj\Debug\VirtualMethodSamples.exe
+C:\Users\win10\source\repos\VirtualMethodSamples\VirtualMethodSamples\obj\Debug\VirtualMethodSamples.pdb

@@ -1,0 +1,7 @@
+C:\Users\win10\source\repos\DesignPatterns\Facede\bin\Debug\Facede.exe.config
+C:\Users\win10\source\repos\DesignPatterns\Facede\bin\Debug\Facede.exe
+C:\Users\win10\source\repos\DesignPatterns\Facede\bin\Debug\Facede.pdb
+C:\Users\win10\source\repos\DesignPatterns\Facede\obj\Debug\Facede.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\DesignPatterns\Facede\obj\Debug\Facede.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\DesignPatterns\Facede\obj\Debug\Facede.exe
+C:\Users\win10\source\repos\DesignPatterns\Facede\obj\Debug\Facede.pdb
