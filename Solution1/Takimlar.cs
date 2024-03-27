@@ -1,0 +1,4 @@
+namespace Takimlar
+{
+	internal 
+}
